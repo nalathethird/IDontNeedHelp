@@ -1,4 +1,4 @@
-# IDontNeedHelp | AKA: Fck-HelpSection
+# IDontNeedHelp
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that removes the Help tab from the RadiantDash UI.
 
